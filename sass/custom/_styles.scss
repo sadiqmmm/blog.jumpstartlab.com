@@ -1,2 +1,57 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+html {
+  background-image: none;
+}
+body {
+  font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif;
+  > header {
+    padding: { top: 1.45em; bottom: .65em; }
+    background: none;
+    h1 {
+      @include replace-text-with-dimensions('logo.png');
+      padding: 0 5px;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    font-size: 1.1em;
+    #main {
+      border: 8px #4a4d4f solid;
+      border-top: 0;
+      @include border-bottom-radius(.8em);
+    }
+    nav[role=navigation] {
+      border: 8px #4a4d4f solid;
+      border-bottom: 0;
+      padding: { top: .8em; bottom: .8em;}
+      @include border-top-radius(.8em);
+      &:before {
+        content: " ";
+        position: absolute; left: 0; right: 0; bottom: 0;
+        height: 1px;
+        background: $nav-border-bottom;
+      }
+    }
+  }
+  > footer {
+    background: none;
+    border-top: 0;
+    padding-top: 2em;
+    color: #abaeb0;
+    text-shadow: #555 0 1px;
+    font-size: .95em;
+    text-align: center;
+  }
+}
+#content {
+  @include border-bottom-left-radius(.6em);
+  > aside { border-top: 0; }
+  article header {
+    padding-top: 0;
+    .meta {
+      position: relative;
+      margin-top: .8em;
+    }
+  }
+}
