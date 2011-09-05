@@ -2,7 +2,6 @@
 layout: post
 title: "Presentation at AZ::Ruby"
 date: 2011-02-15 19:35
-comments: false
 categories:
 - conferences
 - talk

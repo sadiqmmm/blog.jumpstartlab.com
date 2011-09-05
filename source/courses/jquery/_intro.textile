@@ -1,0 +1,27 @@
+{% capture brief %}
+The jQuery Framework has been steadily taking over the Javascript world.  Why is it so popular?  It makes Javascript-driven interaction easy!  In this course you'll work through a usable project exercising the core concepts of jQuery.
+{% endcapture %}
+
+{% capture full %}
+The jQuery Framework has been steadily taking over the Javascript world.  The 2010 Rails survey shows that over 80% of Rails developers choose it as their preferred Javascript platform.  Why is jQuery so popular?  It makes Javascript-driven interaction easy!
+
+The ideal student for this course will have:
+
+* Some programming experience (Ruby, Java, PHP, Python, whatever!)
+* Experience with HTML and CSS
+* No Javascript experience necessary!
+
+In the course we'll do a minimum of talking and focus on working.  We'll build two sample projects using mainstream jQuery techniques to bring our HTML alive.  By the end you'll understand how to use jQuery and be ready to apply it in your own projects.
+
+h3. Areas of Focus
+
+* Understanding the relationship between Javascript and jQuery
+* Using CSS3-style selectors in the DOM
+* Attaching events
+* Manipulating the DOM
+* Using callbacks
+* How to utilize the jQuery API
+* How to mixin normal Javascript
+* Using existing code with jQuery plugins
+{% endcapture %}
+

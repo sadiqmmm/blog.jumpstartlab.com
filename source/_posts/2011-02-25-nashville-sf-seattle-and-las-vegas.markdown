@@ -2,7 +2,6 @@
 layout: post
 title: "Nashville, SF, Seattle, &amp; Las&nbsp;Vegas"
 date: 2011-02-25 08:50
-comments: false
 categories:
 - Nashville
 - SF

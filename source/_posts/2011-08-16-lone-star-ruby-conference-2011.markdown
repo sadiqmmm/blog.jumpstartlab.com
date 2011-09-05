@@ -2,7 +2,6 @@
 layout: post
 title: "Lone Star Ruby Conference 2011"
 date: 2011-08-14 10:51
-comments: false
 categories: conferences
 ---
 <a href="http://lonestarrubyconf.com/">LoneStar 2011</a>&nbsp;just wrapped up here in Austin, Texas. I taught a class in VA on Friday so missed that half, but Saturday was great.

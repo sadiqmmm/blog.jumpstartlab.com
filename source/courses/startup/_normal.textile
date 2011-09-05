@@ -1,0 +1,73 @@
+{% capture brief %}
+The *Normal Track* is for you if you've never written a program before or consider yourself totally new to programming.  You will focus first on introductory programming to build a foundation, then jump into web applications with Rails.
+{% endcapture %}
+{% capture full %}
+In this three month instructor-led course you'll learn the technical skills you need to build and launch a web application to power your startup business.
+
+h5. What's Included
+
+* Three 2-day in-person sessions
+* Five online sessions
+* Projects and assignments to practice your skills
+* Individual meeting/advisory session to discuss technical needs of your business
+* Access to an online community for questions and collaboration
+
+h5. Pricing
+
+We know what it's like to bootstrap!  We've designed an awesome program and you won't find anything like it out there, but it has to be affordable.  Combining in-person and online sessions, all in small groups no larger than 14 people, you'll pay *less than $40/hour*.
+
+Here's the breakdown:
+* $1975 per single attendee
+* $1600 per attendee for the first six signups,  groups of 2 or more, and current students
+
+h4. Level of Difficulty - Normal Track
+
+You've never written a program before or consider yourself totally new to programming.  You will focus first on introductory programming to build a foundation, then jump into web applications with Rails.
+
+h4. Calendar - Normal Track
+
+Exact dates for this course are still pending, but here is the general idea:
+
+* In-Person Session 1: 2 Days All Day
+* Online Session 1: 3 Hours
+* Online Session 2: 3 Hours
+* In-Person Session 2: 2 Days All Day
+* Online Session 3: 3 Hours
+* Online Session 4: 3 Hours
+* In-Person Session 3: 2 Days All Day
+* Online Session 5: 3 Hours
+
+That's a total of over *50 hours* of small group instructor training plus a one-on-one session and the online community!
+
+h4. Content Details - Normal Track
+
+This track is designed for persons new to programming.  It will be a quick ramp up, but the foundation in general programming will provide huge benefits down the road.
+
+h5. Introduction to Programming with Ruby:<span class='details'> In-Person Session 1, Online Sessions 1 & 2</span>
+
+* What is Ruby?
+* Introduction to Object Oriented Programming
+* Writing instructions, methods, classes, and programs
+* Using libraries to stand on the shoulders of giants
+* How to get help when you're stuck
+
+h5. The Basics of Rails Applications:<span class='details'>In-Person Session 2, Online Sessions 3 & 4</span>
+
+* How web applications work
+* Tour a Rails Application
+* Creating your first web app
+* Working with a database
+* Building effective user interfaces
+
+h5. Running a Rails Project and Application:<span class='details'>In-Person Session 3, Online Session 5</span>
+
+* Managing source code with git
+* Deploying a Rails application
+* Authentication and authorization
+* Handling Payments
+* Tools for monitoring and maintenance
+
+h4. Questions? Comments?
+
+Email us at "startuprails@jumpstartlab.com":mailto:startuponrails@jumpstartlab.com or on Twitter at "@jumpstartlab":http://twitter.com/#!/jumpstartlab
+{% endcapture %}

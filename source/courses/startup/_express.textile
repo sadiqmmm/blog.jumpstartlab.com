@@ -1,0 +1,83 @@
+{% capture brief %}
+The *Express Track* is for you if you have experience with programming in a language like Java, .NET, C/C++, Python, Ruby, or similar.  You'll dive right into building web applications with Rails.
+{% endcapture %}
+{% capture full %}
+In this three month instructor-led course you'll learn the technical skills you need to build and launch a web application to power your startup business.
+
+<div class='partnership'><p><a href='http://jumpstartfoundry.com'><img src='/images/partners/jumpstart_foundry.png'/></a>Offered in partnership with <a href='http://jumpstartfoundry.com'>Jumpstart Foundry</a>, a seed-stage microfund based in Nashville, TN.</p></div>
+
+h5. What's Included
+
+* Three 2-day in-person sessions
+* Five online sessions
+* Projects and assignments to practice your skills
+* Individual meeting/advisory session to discuss technical needs of your business
+* Access to an online community for questions and collaboration
+
+h5. Pricing
+
+We know what it's like to bootstrap!  We've designed an awesome program and you won't find anything like it out there, but it has to be affordable.  Combining in-person and online sessions, all in small groups no larger than 14 people, you'll pay *less than $40/hour*.
+
+Here's the breakdown:
+* $1975 per single attendee
+* $1850 per attendee in groups of 2 or more
+* $1675 for current students or graduates from the past year
+
+h6. Scholarships
+
+* 1 spot will be given away to a current or recent college student ("email for details":startuprails@jumpstartlab.com)
+* 1 spot will be given away to a person has been out of work at least 3 months due to shutdown, layoff, etc ("email for details":startuprails@jumpstartlab.com)
+
+h4. Level of Difficulty
+
+The course will run in two concurrent tracks.  Picking the right track is *critical* to your success in the program, please talk to us if you're not 100% certain which is the better fit for you.
+
+h5. This is the Express Track
+
+You have experience with programming in a language like Java, .NET, C/C++, Python, Ruby, or similar.  You'll dive right into building web applications with Rails.
+
+h4. Calendar - Normal Track
+
+* In-Person Session 1: All Day 2/17 & 2/18
+* Online Session 1: 3 Hours on the weekend of 2/25 - 2/27
+* Online Session 2: 3 Hours on the weekend of 3/4 - 3/6
+* Online Session 3: 3 Hours on the weekend of 3/12 - 3/13
+* In-Person Session 2: All Day 3/24 & 3/25
+* Online Session 4: 3 Hours on the weekend of 4/1 - 4/3
+* In-Person Session 3: All Day 4/13 & 4/14
+* Online Session 5: Three hours on the weekend of 4/22 - 4/24
+
+That's a total of over *50 hours* of small group instructor training plus a one-on-one session and the online community!
+
+h4. Content Details - Express Track
+
+This track is designed for persons with existing programming experience.  We'll dive right into web applications.
+
+h5. The Basics of Rails Applications:<span class='details'>In-Person Session 1, Online Sessions 1 & 2</span>
+
+* How web applications work
+* Tour a Rails Application
+* Creating your first web app
+* Working with a database
+* Designing for user interaction
+
+h5. Rails Application Architecture:<span class='details'>In-Person Session 2, Online Sessions 3 & 4</span>
+
+* Challenging data models
+* Building for scalability
+* Writing reusable code
+* Test-Driven Development (TDD)
+* Handling asynchronous jobs
+
+h4. Building Businesses on Rails:<span class='details'>In-Person Session 3, Online 4 & 5</span>
+
+* Deploying and scaling Rails applications
+* Continuous Integration (CI) and Quality Assurance (QA)
+* Building an API
+* Integrating Payments
+* Packaging and managing source code
+
+h4. Questions? Comments?
+
+Email us at "startuprails@jumpstartlab.com":mailto:startuponrails@jumpstartlab.com or on Twitter at "@startuprails":http://twitter.com/#!/startuprails
+{% endcapture %}

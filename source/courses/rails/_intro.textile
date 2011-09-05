@@ -1,0 +1,22 @@
+{% capture brief %}
+If you have completed the Ruby Jumpstart or have some programming background, then you're ready for "Rails Jumpstart":/courses/rails/.  Ruby on Rails is a powerful web application framework that has become hugely popular in the past few years.  It is relatively easy to develop with and can be used for simple sites like this one, or gigantic ones like LivingSocial, Groupon, and Twitter.  You'll spend the two days working through a single concept, going from an idea to a finished product.
+{% endcapture %}
+
+{% capture full %}
+If you have completed the Ruby Jumpstart or have some programming background, then you're ready for "Rails Jumpstart":/courses/rails/.  Ruby on Rails is a powerful web application framework that has become hugely popular in the past few years.  It is relatively easy to develop with and can be used for simple sites like this one, or gigantic ones like LivingSocial, Groupon, and Twitter.  You'll spend the two days working through a single concept, going from an idea to a finished product.
+
+h3. Level 1 Course
+
+For the Level 1 course you need some programming background.  What does that look like?  If you know how control flow (like IF/ELSE statements), method calls & parameters, arrays, and hashes work, then you're ready!
+
+The main goals of the Level 1 course are:
+
+* Understand the MVC architecture
+* Implement database tables using migrations
+* Create models that reflect relationships in the database
+* Create views that allow the user to interact with the data
+* Understand how parameters are used
+* Understand how the request goes from the router => controller => models => controller => views
+
+To illustrate these concepts, we'll work through a real-world project: building a simple publishing platform. Every Rails project involves dozens of files representing many interacting components.  While our project is simple in function, it allows us to pick apart each element of the application.  Rather than relying on lots of magic to quickly build an app you don't understand, we'll build piece-by-piece, laying a solid foundation for your growth as a Rails developer.
+{% endcapture %}

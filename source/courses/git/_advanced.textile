@@ -1,0 +1,19 @@
+{% capture brief %}
+The Git source control system is quickly taking over the development world, replacing SVN and CVS.  It's strengths lie in fast, distributed control of source code for teams from one to thousands (like the Linux kernel).  In this course we'll go beyond the basics to looks at advanced features.
+{% endcapture %}
+
+{% capture full %}
+The Git source control system is quickly taking over the development world, replacing SVN and CVS.  It's strengths lie in fast, distributed control of source code for teams from one to thousands (like the Linux kernel).  But if you're interested in this class, you already know that.
+
+The real power of Git comes when you move beyond simply "doing what you used to do in SVN, just with Git."  It's more than just commits and clones.  In this advanced session we'll explore topics like:
+
+* Managing and merging multiple branches
+* Workflow best practices (rebasing, merging, etc)
+* Finding issues with bisect and blame
+* Hooks
+* Submodules
+* Customizing
+
+This one-day session will be led by "Scott Chacon":http://scottchacon.com/, chief Git evangelist over at "GitHub":http://github.com, creator of "GitCasts":http://www.gitcasts.com/, and author of "Pro Git":http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=jumplab-20&o=1&p=8&l=as1&m=amazon&f=ifr&md=10FE9736YVPPT7A0FBG2&asins=1430218339 (Apress) and "Git Internals":http://peepcode.com/products/git-internals-pdf (Peepcode).
+{% endcapture %}
+

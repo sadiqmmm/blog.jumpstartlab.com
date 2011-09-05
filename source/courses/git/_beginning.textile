@@ -1,0 +1,7 @@
+{% capture brief %}
+A first introduction to Git.
+{% endcapture %}
+
+{% capture full %}
+A first introduction to Git.
+{% endcapture %}

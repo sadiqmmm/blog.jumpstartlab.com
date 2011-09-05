@@ -1,0 +1,24 @@
+{% capture brief %}
+You’ve got a feeling for the whole MVC thing and why Rails is so great — now what?  The Rails Level 2 class pushes you the next step forward.
+
+We’ll work on more advanced data models, break up code into reusable parts, dip into Test Driven Development, explore 3rd party libraries and tools, interact with external services/APIs, and focus on best practices. This course is updated to take advantage of the new features in Rails 3.
+{% endcapture %}
+
+{% capture full %}
+You’ve written a Rails project or worked through a book. You’ve got a feeling for the whole MVC thing and why Rails is so great — now what?
+
+The Rails Level 2 class pushes you the next step forward. You already know about the simple features; this class focuses on what you need for real projects. We’ll work on more advanced data models, break up code into reusable parts, dip into Test Driven Development, explore 3rd party libraries and tools, interact with external services/APIs, and focus on best practices. This course is updated to take advantage of the new features in Rails 3.
+
+As with all our courses, Rails Level 2 builds a sample project that illustrates these needs. We’ll build a contact manager application featuring:
+
+* Guiding development with TDD and RSpec
+* Model structures and relationships using “has many through”, single
+table inheritance, and polymorphic connections
+* Using helpers and partials to clean up duplication
+* Advanced views with HAML and SASS
+* Easy form creation with Formtastic
+* Interacting with an external web service
+* Pushing logic into the model layer
+* Writing custom routes to simplify development
+{% endcapture %}
+

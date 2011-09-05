@@ -1,0 +1,47 @@
+{% capture brief %}
+In the Ruby world, testing is a religion.  There are many who preach "TATFT" and we know that tested code is more reliable code.  If you aren't yet a testing guru, this workshop is for you.
+{% endcapture %}
+
+{% capture full %}
+In the Ruby world, testing is a religion.  There are many who preach "TATFT" and we know that tested code is more reliable code.
+
+If you aren't yet a testing guru, this workshop is for you.  With a team of awesome instructors and a loaded day of hands-on practice, you'll learn the fundamentals of...
+
+* Unit Testing your Ruby with RSpec and Test::Unit
+* Driving the browser with Selenium
+* Headless integration testing with Capybara
+* Behavior Driven Development with Cucumber
+* Writing robust tests
+* Measuring test coverage and efficiency
+* Test-First versus Test-Driven
+
+We'll work with a sample application built in Ruby on Rails, but the techniques we study are not at all tied to Rails.  They're applicable to other Ruby code and the concepts apply to even other languages and frameworks.
+
+h3. All for Charity
+
+The whole workshop is setup to benefit "DonorsChoose":http://www.donorschoose.org/.  They're an awesome charity that connects teachers across the US with donors who sponsor their projects and students.  When Jeff taught high school he had a grant funded through "DonorsChoose":http://www.donorschoose.org/ and it totally changed the students' experience.  There's very little overhead and few hoops to jump through; "DonorsChoose":http://www.donorschoose.org/ just does an awesome job of connecting teachers and donors.
+
+"DonorsChoose":http://www.donorschoose.org/ has setup a matching fund, so your impact will even be doubled!  Tickets for the event are $350, $50 goes towards costs, and you'll get a $600 credit to donate on the website at the end of the workshop.  How awesome is that?
+
+h3. Who Should Attend
+
+You need to be comfortable writing Ruby and working with a Rails application.  If you've got a few months of experience with Rails, then you're set.  If you're brand new to Ruby or Rails, this probably won't be a good fit.
+
+h3. Instructors
+
+p{float:left; margin-right: 5px; height: 70px; width: 70px}. !/images/instructors/nickg.png!
+
+"*Nick Gauthier*":http://twitter.com/ngauthier is a Rails programmer at "410 Labs":http://410labs.com working on "Shortmail.com":http://shortmail.com. Recently he's been diving into Javascript-land working with "Backbone JS":http://documentcloud.github.com/backbone/ to build full MVC applications in JavaScript.
+
+p{float:left; margin-right: 5px; height: 70px; width: 70px; clear: left}. !/images/instructors/jeffc.png!
+
+"*Jeff Casimir*":http://twitter.com/j3 runs Jumpstart Lab where he travels the earth teaching Ruby, Rails and JavaScript skills. Lately he's been teaching a three-month "Startup on Rails":/courses/startup course in Nashville and soon launching in Phoenix and Baltimore.
+
+p{float:left; margin-right: 5px; height: 70px; width: 70px; clear: left}. !/images/instructors/matty.png!
+
+"*Matt Yoho*":http://twitter.com/mattyoho sings karaoke and travels about teaching Ruby for his own personal agenda: to rule the world and own every comic book. He excels at leading apprenticeship at EdgeCase and punching Marc in the face.
+
+p{float:left; margin-right: 5px; height: 70px; width: 70px; clear: left}. !/images/instructors/marcp.png!
+
+"*Marc Peabody*":http://twitter.com/marcpeabody gaily writes Rails programs with the EdgeCase team and their esteemed clients for fun and profit. He's a craft beer aficionado who loves to learn and teach technologies that make programmers awesomer.
+{% endcapture %}
